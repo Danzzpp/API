@@ -21,7 +21,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Evellyn Badan         |     [![Linkedin Badge]              |
 | Scrum Master  |  |      [![Linkedin Badge]|
-| Team Member   | Pessoa 3              |         [![Linkedin Badge]     |
+| Team Member   | Ligia Sá              |         [![Linkedin Badge]https://www.linkedin.com/in/ligias%C3%A1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app [![GitHub Badge]    |
 |  Team Member  | Pessoa 4                 |         [![Linkedin Badge]      |
 |  Team Member  | Pessoa 5                 |   [![Linkedin Badge]  |
 |  Team Member  | Pessoa 6       |           [![Linkedin Badge] |
