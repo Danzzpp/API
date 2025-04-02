@@ -19,9 +19,40 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Pessoa 1         |     [![Linkedin Badge]              |
-| Scrum Master  | Pessoa 2 |      [![Linkedin Badge]|
+| Product Owner |   Evellyn Badan         |     [![Linkedin Badge]              |
+| Scrum Master  |  |      [![Linkedin Badge]|
 | Team Member   | Pessoa 3              |         [![Linkedin Badge]     |
 |  Team Member  | Pessoa 4                 |         [![Linkedin Badge]      |
 |  Team Member  | Pessoa 5                 |   [![Linkedin Badge]  |
 |  Team Member  | Pessoa 6       |           [![Linkedin Badge] |
+
+
+# Objetivo do Projeto
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
+
+## Tecnologias Utilizadas
+
+ ### Tecnologias Específicas/Apoio
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+  
+ ### Tecnologias da Informação
+ > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+
+# Backlog do produto
+
+## Sprint 1
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+      
