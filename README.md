@@ -55,4 +55,42 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
+
+## Sprint 2
+- [ ] Documento passo a passo;
+- [ ] Vídeo passo a passo;
+- [ ] Treinamento com os professores;
+- [ ] Treinamento com os alunos;
+- [ ] Monitoramento e ajustes.
       
+## Sprint 3
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+      
+## Sprint 4
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+
+# Registro das Sprints
+
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
+|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
+|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
+|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
+|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) |
