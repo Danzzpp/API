@@ -17,6 +17,62 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 
 
+
+
+# Objetivo do Projeto
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+* Centralizar os trabalhos e projetos;
+* Organizar e estruturar as informações;
+* Versionar e controlar as alterações;
+* Facilitar o compartilhamento e feedback;
+* Desenvolver habilidades técnicas.
+
+## Tecnologias Utilizadas
+Tecnologias utilizadas para concluir a entrega
+![image](https://github.com/user-attachments/assets/4235e3e8-7aae-44f6-b05a-8182f3c541d7)
+
+
+
+  
+
+ 
+
+# Backlog do produto
+
+## Sprint 1
+* Especialista em logistica, quero um filtro por estado, para especificar o estado no sistema.
+
+* Especialista em logistica, quero um filtro de vias, para especificar as vias no sistema.
+
+* Especialista em logistica, quero um filtro de receitas federais, para selecionar as receitas desejadas.
+
+
+## Sprint 2
+* Especialista em logistica, quero um top unidades receita federal utilizada por x estado, para visualização da área de influencia.
+
+* Especialista em logistica, quero um grafico de tendencias por movimentação de carga por estado, para identifica-las.
+
+      
+## Sprint 3
+* Especialista em logistica, quero uma tela no PowerBI de kg/liq., para para visualizar os valores NCM e países de destino das EXP.
+
+* Especialista em logistica, quero uma tela no PowerBI de Valor FOB, para visualizar os valores NCM, filtro de cada estado e países de destino das EXP.
+
+* Especialista em logistica, quero uma tela no PowerBI de tendências, para visualizar a movimentação de carga por estado.
+
+      
+
+# Registro das Sprints
+
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
+|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
+|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
+|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) |
+
+
+
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -29,72 +85,3 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Daniel                  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pac%C3%ADfico-500520323/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Danzzpp)   |
 |  Team Member  | Ligia Sá                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ligias%C3%A1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ligiasa)   |
 
-
-
-# Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
-
-## Tecnologias Utilizadas
-
- ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-  
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-
-# Backlog do produto
-
-## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
-      
-## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-
-# Registro das Sprints
-
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) |
