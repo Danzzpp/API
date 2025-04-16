@@ -20,14 +20,13 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 
 # Objetivo do Projeto
-
-	•	Aplicamos filtros por ano e sazonalidade para facilitar a visualização e análise dos dados.
-	•	Elaboramos um gráfico por estado, destacando o valor FOB de cada um.
-	•	Criamos um gráfico de linhas para acompanhar a variação do valor FOB ao longo do tempo.
-	•	Desenvolvemos um gráfico dos modais de transporte utilizados, tanto nas exportações quanto nas importações.
-	•	Utilizamos filtros específicos para os países do G20, com foco nas principais economias do mundo.
-	•	Montamos uma tabela com os produtos (NCM) organizados por ordem dos mais vendidos e comprados.
-	•	Por fim, apresentamos um mapa com os países do G20, indicando os valores em reais comprados e vendidos por cada país.
+* Aplicar filtros por ano e sazonalidade para facilitar a análise dos dados.
+* Apresentar um gráfico por estado com os respectivos valores FOB.
+* Criar um gráfico de linhas para acompanhar a variação do valor FOB ao longo do tempo.
+* Exibir um gráfico dos modais de transporte utilizados nas exportações e importações.
+* Utilizar filtros focados nos países do G20, que representam as maiores economias do mundo.
+* Organizar uma tabela com os produtos (NCM) em ordem dos mais vendidos e comprados.
+* Apresentar um mapa dos países do G20, destacando os valores em reais comprados e vendidos.
 
 
 ## Tecnologias Utilizadas
