@@ -12,8 +12,20 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
-# Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+# MODELO DE DASHBOARD 
+![e32b1211-856a-4129-b674-ab3d34911269](https://github.com/user-attachments/assets/dc295d22-a6d0-4e67-b459-6c0d694bfd2f)
+
+![0ce51bf1-d9ee-4f9b-9da9-9ad1f23810b2](https://github.com/user-attachments/assets/3d430405-308a-45e6-9f67-09147d02da44)
+
+![2cf60fc1-c835-4fcc-a215-9ca1d0ea557e](https://github.com/user-attachments/assets/eaea77e9-e82a-44be-b8df-fb55a25fb815)
+
+![df6cc59d-826b-420c-ac8a-626d65925780](https://github.com/user-attachments/assets/e839090d-7254-4c67-b1ef-dd02782bcf48)
+
+
+
+
+# MODELO DE BPMN
+![a24bef76-89e8-4d5f-9d78-567bb899d0e5](https://github.com/user-attachments/assets/a6b02ebc-fd17-47fb-a9ea-c4ed4ff20a36)
 
 
 
@@ -64,14 +76,6 @@ Tecnologias utilizadas para concluir a entrega
 
       
 
-# Registro das Sprints
-
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) |
 
 
 
