@@ -1,16 +1,56 @@
-# Aprendizado por Projeto Integrador (API)
+# GRUPO LOGISTIFY - API - 2º SEMESTRE.
 
-Template para os projetos do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
+# Equipe
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |   Evellyn Badan       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evellyn-badan-383a88285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BadanBADAN)              |
+| Scrum Master  | Gabriel |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
+| Team Member   | Larrisa              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-alves-422a10213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Larih13)        |
+|  Team Member  | Paulo                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-b21680306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Paulo0805)        |
+|  Team Member  | Bruno                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-della-corte-4a792233a/)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Bruno2811)   |
+|  Team Member  | Andreza                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andreza-maria-4a6625277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ANDREZA154)   |
+|  Team Member  | Daniel                  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pac%C3%ADfico-500520323/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Danzzpp)   |
+|  Team Member  | Ligia Sá                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ligias%C3%A1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ligiasa)   |
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+# Objetivo do Projeto
+* Aplicar filtros por ano e sazonalidade para facilitar a análise dos dados.
+* Apresentar um gráfico por estado com os respectivos valores FOB.
+* Criar um gráfico de linhas para acompanhar a variação do valor FOB ao longo do tempo.
+* Exibir um gráfico dos modais de transporte utilizados nas exportações e importações.
+* Utilizar filtros focados nos países do G20, que representam as maiores economias do mundo.
+* Organizar uma tabela com os produtos (NCM) em ordem dos mais vendidos e comprados.
+* Apresentar um mapa dos países do G20, destacando os valores em reais comprados e vendidos.
 
-# Índice
-* [Projeto](#projeto-template)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
+
+# Sprint 1
+* Especialista em logistica, quero um filtro por estado, para especificar o estado no sistema.
+
+* Especialista em logistica, quero um filtro de vias, para especificar as vias no sistema.
+
+* Especialista em logistica, quero um filtro de receitas federais, para selecionar as receitas desejadas.
+
+
+# Sprint 2
+* Especialista em logistica, quero um top unidades receita federal utilizada por x estado, para visualização da área de influencia.
+
+* Especialista em logistica, quero um grafico de tendencias por movimentação de carga por estado, para identifica-las.
+
+      
+# Sprint 3
+* Especialista em logistica, quero uma tela no PowerBI de kg/liq., para para visualizar os valores NCM e países de destino das EXP.
+
+* Especialista em logistica, quero uma tela no PowerBI de Valor FOB, para visualizar os valores NCM, filtro de cada estado e países de destino das EXP.
+
+* Especialista em logistica, quero uma tela no PowerBI de tendências, para visualizar a movimentação de carga por estado.
+
+
+
+## Tecnologias Utilizadas
+Tecnologias utilizadas para concluir a entrega
+![image](https://github.com/user-attachments/assets/4235e3e8-7aae-44f6-b05a-8182f3c541d7)
+
+
+
 
 # MODELO DE DASHBOARD 
 ![e32b1211-856a-4129-b674-ab3d34911269](https://github.com/user-attachments/assets/dc295d22-a6d0-4e67-b459-6c0d694bfd2f)
@@ -28,66 +68,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 ![a24bef76-89e8-4d5f-9d78-567bb899d0e5](https://github.com/user-attachments/assets/a6b02ebc-fd17-47fb-a9ea-c4ed4ff20a36)
 
 
+#BACKLOG
 
 
-
-# Objetivo do Projeto
-* Aplicar filtros por ano e sazonalidade para facilitar a análise dos dados.
-* Apresentar um gráfico por estado com os respectivos valores FOB.
-* Criar um gráfico de linhas para acompanhar a variação do valor FOB ao longo do tempo.
-* Exibir um gráfico dos modais de transporte utilizados nas exportações e importações.
-* Utilizar filtros focados nos países do G20, que representam as maiores economias do mundo.
-* Organizar uma tabela com os produtos (NCM) em ordem dos mais vendidos e comprados.
-* Apresentar um mapa dos países do G20, destacando os valores em reais comprados e vendidos.
-
-
-## Tecnologias Utilizadas
-Tecnologias utilizadas para concluir a entrega
-![image](https://github.com/user-attachments/assets/4235e3e8-7aae-44f6-b05a-8182f3c541d7)
-
-
-
-  
-
- 
-
-# Backlog do produto
-
-## Sprint 1
-* Especialista em logistica, quero um filtro por estado, para especificar o estado no sistema.
-
-* Especialista em logistica, quero um filtro de vias, para especificar as vias no sistema.
-
-* Especialista em logistica, quero um filtro de receitas federais, para selecionar as receitas desejadas.
-
-
-## Sprint 2
-* Especialista em logistica, quero um top unidades receita federal utilizada por x estado, para visualização da área de influencia.
-
-* Especialista em logistica, quero um grafico de tendencias por movimentação de carga por estado, para identifica-las.
-
-      
-## Sprint 3
-* Especialista em logistica, quero uma tela no PowerBI de kg/liq., para para visualizar os valores NCM e países de destino das EXP.
-
-* Especialista em logistica, quero uma tela no PowerBI de Valor FOB, para visualizar os valores NCM, filtro de cada estado e países de destino das EXP.
-
-* Especialista em logistica, quero uma tela no PowerBI de tendências, para visualizar a movimentação de carga por estado.
 
       
 
 
 
 
-# Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Evellyn Badan       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evellyn-badan-383a88285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BadanBADAN)              |
-| Scrum Master  | Gabriel |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielareis/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaGabrielaReis)     |
-| Team Member   | Larrisa              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-alves-422a10213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Larih13)        |
-|  Team Member  | Paulo                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-b21680306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Paulo0805)        |
-|  Team Member  | Bruno                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-della-corte-4a792233a/)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Bruno2811)   |
-|  Team Member  | Andreza                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andreza-maria-4a6625277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ANDREZA154)   |
-|  Team Member  | Daniel                  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pac%C3%ADfico-500520323/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Danzzpp)   |
-|  Team Member  | Ligia Sá                |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ligias%C3%A1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ligiasa)   |
 
