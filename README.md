@@ -20,12 +20,15 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+
+	•	Aplicamos filtros por ano e sazonalidade para facilitar a visualização e análise dos dados.
+	•	Elaboramos um gráfico por estado, destacando o valor FOB de cada um.
+	•	Criamos um gráfico de linhas para acompanhar a variação do valor FOB ao longo do tempo.
+	•	Desenvolvemos um gráfico dos modais de transporte utilizados, tanto nas exportações quanto nas importações.
+	•	Utilizamos filtros específicos para os países do G20, com foco nas principais economias do mundo.
+	•	Montamos uma tabela com os produtos (NCM) organizados por ordem dos mais vendidos e comprados.
+	•	Por fim, apresentamos um mapa com os países do G20, indicando os valores em reais comprados e vendidos por cada país.
+
 
 ## Tecnologias Utilizadas
 Tecnologias utilizadas para concluir a entrega
