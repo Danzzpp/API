@@ -65,7 +65,7 @@ Tecnologias utilizadas para concluir a entrega
 
 
 # MODELO DE BPMN
-![a24bef76-89e8-4d5f-9d78-567bb899d0e5](https://github.com/user-attachments/assets/a6b02ebc-fd17-47fb-a9ea-c4ed4ff20a36)
+blob:https://web.whatsapp.com/ca310fe4-83ad-4f25-9f0f-1ea4c8aca0c0
 
 
 #BACKLOG
