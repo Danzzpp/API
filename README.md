@@ -23,25 +23,25 @@
 
 
 # Sprint 1
-* Especialista em logistica, quero um filtro por estado, para especificar o estado no sistema.
+* Especialista em logistica, filtro por estado, para especificar o estado no sistema.
 
-* Especialista em logistica, quero um filtro de vias, para especificar as vias no sistema.
+* Especialista em logistica, filtro de vias, para especificar as vias no sistema.
 
-* Especialista em logistica, quero um filtro de receitas federais, para selecionar as receitas desejadas.
+* Especialista em logistica, filtro de receitas federais, para selecionar as receitas desejadas.
 
 
 # Sprint 2
-* Especialista em logistica, quero um top unidades receita federal utilizada por x estado, para visualização da área de influencia.
+* Especialista em logistica,  top unidades receita federal utilizada por x estado, para visualização da área de influencia.
 
-* Especialista em logistica, quero um grafico de tendencias por movimentação de carga por estado, para identifica-las.
+* Especialista em logistica,  grafico de tendencias por movimentação de carga por estado, para identifica-las.
 
       
 # Sprint 3
-* Especialista em logistica, quero uma tela no PowerBI de kg/liq., para para visualizar os valores NCM e países de destino das EXP.
+* Tela no PowerBI de kg/liq., para para visualizar os valores NCM e países de destino das EXP.
 
-* Especialista em logistica, quero uma tela no PowerBI de Valor FOB, para visualizar os valores NCM, filtro de cada estado e países de destino das EXP.
+* Tela no PowerBI de Valor FOB, para visualizar os valores NCM, filtro de cada estado e países de destino das EXP.
 
-* Especialista em logistica, quero uma tela no PowerBI de tendências, para visualizar a movimentação de carga por estado.
+* Tela no PowerBI de tendências, para visualizar a movimentação de carga por estado.
 
 
 
@@ -52,13 +52,20 @@ Tecnologias utilizadas para concluir a entrega
 
 
 
-# MODELO DE DASHBOARD 
+# MODELOS DE DASHBOARD 
+
+# VALOR AGREGADO/VALOR FOB/KG LIQUIDO- EXPORTAÇÃO
+
 ![e32b1211-856a-4129-b674-ab3d34911269](https://github.com/user-attachments/assets/dc295d22-a6d0-4e67-b459-6c0d694bfd2f)
+
+# VALOR AGREGADO/VALOR FOB/KG LIQUIDO-IMPORTAÇÃO
 
 ![0ce51bf1-d9ee-4f9b-9da9-9ad1f23810b2](https://github.com/user-attachments/assets/3d430405-308a-45e6-9f67-09147d02da44)
 
+# NCM IMPORTAÇÃO
 ![2cf60fc1-c835-4fcc-a215-9ca1d0ea557e](https://github.com/user-attachments/assets/eaea77e9-e82a-44be-b8df-fb55a25fb815)
 
+# NCM EXPORTAÇÃO
 ![df6cc59d-826b-420c-ac8a-626d65925780](https://github.com/user-attachments/assets/e839090d-7254-4c67-b1ef-dd02782bcf48)
 
 
@@ -72,7 +79,21 @@ Tecnologias utilizadas para concluir a entrega
 # 2ºSPRINT
 
 # MODELO DE BPMN
+
 ![WhatsApp Image 2025-05-14 at 19 07 02](https://github.com/user-attachments/assets/5b5165cc-cfd6-4c6a-8b76-b764805cab5e)
+
+
+# MODELO DE DASHBOARD 2ºSPRINT
+
+# EXPORTAÇÃO
+
+![Captura de tela 2025-05-14 191845](https://github.com/user-attachments/assets/a3a510c6-2758-456e-8a9b-75f1da7cac87)
+
+
+# IMPORTAÇÃO
+
+![Captura de tela 2025-05-14 192001](https://github.com/user-attachments/assets/db516a17-864a-444a-b456-c82c06cadf96)
+
 
 
 
